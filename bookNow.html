@@ -10,26 +10,74 @@
   </head>
   <body>
     <!-- Header -->
-    <header>
-      <a href="index.html">
-        <h1 id="logo">Lone Catering</h1>
-      </a>
-      <nav>
-        <ul id="menu">
-            <li><a href="#">ContactUs</a></li>
-            <li><a href="#">Book Now</a></li>
-            <li><a href="#">Menu</a></li>
-            <li><a href="index.html" class="active">Home</a></li>
-        </ul>
-      </nav>
-    </header>
-
-    <section>Main Image</section>
-
-    <section>Main Content</section>
-
-    <section>Footer Content</section>
-
+    <header> 
+	<a href="index.html"> <h1 id="logo">Lone Catering</h1></a>
+			<nav>
+				<ul id="menu">
+					<li>
+						<a href="contactUs.html">Contact Us</a>
+					</li>
+					
+					<li>
+						<a href="bookNow.html" class="active">Book Now</a>
+					</li>
+					
+					<li>
+						<a href="menu.html">Menu</a>
+					</li>
+					
+					<li>
+						<a href="index.html">Home</a>
+					</li>
+				</ul>
+			</nav>	
+	</header>
+	
+<!-- Booking Form -->
+	<section id="book">
+		<h2>Book Here</h2>
+		<form id="bookingForm" action="/action_page.php" method="post">
+			<div class="booking">
+				<label for="name"> Full Name</label>
+				<input type="text" id="name" name="full-name" required>
+			</div>
+			
+			<div class="booking">
+				<label for="email">Email</label>
+				<input type="email" id="email" name="email-address" required>
+			</div>
+			
+			<div class="booking">
+				<label for="phone">Mobile Number</label>
+				<input type="tel" id="phone" name="phone" required>
+			</div>
+			
+			<hr>
+			
+			<div class="booking-details">
+				<label for="adult"> Number Of Adults</label>
+				<input type="number" id="adult" name="numberofAdult" min="1" required>
+			</div>
+			
+			<div class="booking-details">
+				<label for="child">Number of Children</label>
+				<input type="number" id="child" name="numberofChidren" min="0" required>
+			</div>
+			
+			<div class="booking-details">
+				<label for="reservation-date"> Reservation Date</label>
+				<input type="date" id="reservation-date" name="reservation" required>
+			</div>
+			
+			<div class="booking">
+				<label for="message"> Message </label>
+				<textarea id="message" name="message" required></textarea>
+			</div>
+			<div class="subButton">
+			<button type="submit" > Book Now</button>
+			</div>
+		</form>	
+	</section>
     <!-- Footer -->
 
     <footer>

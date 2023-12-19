@@ -233,7 +233,32 @@ menu a:hover {
 }
 
 
-* Booking Form */
+label {
+  display: block;
+  font-family:  Oswald, sans-serif;
+  padding-bottom: 10px;
+  font-size: 25px;
+}
+
+
+input, select, textarea {
+  border-radius: 2px;
+  border: 2px solid #777;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-family: Oswald, sans-serif;
+  width: 100%;
+  padding: 10px;
+  background: transparent;
+  color: #000000;
+}
+
+textarea{
+	height: 250px;
+
+}
+
+/* Booking Form */
 
 #book{
 	/* background-image: url("../image/booking-image.png"); */
@@ -268,35 +293,9 @@ menu a:hover {
 	margin: 20px 0px;
 }
 
-
-label {
-  display: block;
-  font-family:  Oswald, sans-serif;
-  padding-bottom: 10px;
-  font-size: 25px;
-}
-
-
-input, select, textarea {
-  border-radius: 2px;
-  border: 2px solid #777;
-  box-sizing: border-box;
-  font-size: 20px;
-  font-family: Oswald, sans-serif;
-  width: 100%;
-  padding: 10px;
-  background: transparent;
-  color: #000000;
-}
-
 .booking-details input{
 	width: 95%;
 	display: inline-block;
-}
-
-textarea{
-	height: 250px;
-
 }
 
 .subButton button{
@@ -314,7 +313,6 @@ textarea{
 .subButton button:hover {
   border: 2px solid red;
 }
-
 
 /* Contact Us */
 
