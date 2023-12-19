@@ -99,7 +99,6 @@ menu a:hover {
     position: absolute;
     top: 60%;
     left: 46%;
-    transform: translate (-50%, -50%);
     color: #ff0000;
 }
 
@@ -202,7 +201,6 @@ menu a:hover {
 	background-size: cover;
 	background-position:110%;
 	padding: 70px 10% 0 10%;
-    margin left: 0 auto;
 	flex-grow: 1;
 }
 
