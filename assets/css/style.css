@@ -231,3 +231,129 @@ menu a:hover {
 .price{
 	float: right;
 }
+
+
+* Booking Form */
+
+#book{
+	/* background-image: url("../image/booking-image.png"); */
+	background-image: url("../image/background-image.JPEG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:110%;
+	padding: 60px 10% 0 10%;
+	flex-grow: 1;
+}
+
+#bookingForm{
+	color: #000000;
+	padding: 30px;
+	border: 1px solid black;
+}	
+
+#bookingForm >h2{
+	color: #000000;
+	margin-bottom: 40px;
+}
+
+.booking{
+	margin: 20px 0px;
+}
+
+.booking-details{
+	width: 95%;
+	display: inline-block;
+	float: left;
+	margin-left: 1%;
+	margin: 20px 0px;
+}
+
+
+label {
+  display: block;
+  font-family:  Oswald, sans-serif;
+  padding-bottom: 10px;
+  font-size: 25px;
+}
+
+
+input, select, textarea {
+  border-radius: 2px;
+  border: 2px solid #777;
+  box-sizing: border-box;
+  font-size: 20px;
+  font-family: Oswald, sans-serif;
+  width: 100%;
+  padding: 10px;
+  background: transparent;
+  color: #000000;
+}
+
+.booking-details input{
+	width: 95%;
+	display: inline-block;
+}
+
+textarea{
+	height: 250px;
+
+}
+
+.subButton button{
+	height: 50px;
+	background: black;
+	border: none;
+	color: white;
+	font-size: 25px;
+	font-family: Oswald, sans-serif;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
+
+.subButton button:hover {
+  border: 2px solid red;
+}
+
+
+/* Contact Us */
+
+#feedback{	
+	background-image: url("../image/background-image.JPEG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:110%;
+	padding: 60px 10% 0 10%;
+	flex-grow: 1;	
+	
+}
+
+#feedbacks{
+	margin: 20px 0px;
+}
+
+.contact{
+	margin: 20px 0px;
+}
+
+#contactUsForm{
+	color: #FFFFFF;
+	padding: 30px;
+}
+
+
+.contactUsButton button{
+	height: 50px;
+	background: black;
+	border: none;
+	color: white;
+	font-size: 25px;
+	font-family: Oswald, sans-serif;
+	border-radius: 4px;
+	cursor: pointer;
+	
+}
+
+.contactUsButton  button:hover {
+  border: 2px solid red;
+}

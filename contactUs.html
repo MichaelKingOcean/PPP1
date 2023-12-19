@@ -31,13 +31,41 @@
 					</li>
 				</ul>
 			</nav>	
-	</header>
+     </header>
 
-    <section>Main Image</section>
-
-    <section>Main Content</section>
-
-    <section>Footer Content</section>
+     <section id="feedback">
+		<h2>Contact Us</h2>
+		<form id="feedbacks" action=".action_page.php" method="post">
+			<div class="contact">
+				<label for="name"> Full Name</label>
+				<input type="text" id="name" name="full-name" required>
+			</div>
+			
+			<div class="contact">
+				<label for="email">Email</label>
+				<input type="email" id="email" name="email-address" required>
+			</div>
+			
+			<div class="contact">
+				<label for="phone">Mobile Number</label>
+				<input type="tel" id="phone" name="phone"  required>
+			</div>
+			
+			<hr>
+			<div class="contact">
+				<label for="message"> Message </label>
+				<textarea id="message" name="message" required></textarea>
+				
+				
+			</div>
+			<div class="contactUsButton">
+			<button type="submit"> Contact Us</button>
+			</div>
+			
+			
+		</form>	
+	
+	</section>
 
     <!-- Footer -->
 
