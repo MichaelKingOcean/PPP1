@@ -213,6 +213,20 @@ menu a:hover {
 	flex-grow: 1;
 }
 
+.mainHeader{
+	background-size: cover;
+	background-position:110%;
+	padding: 30px 10% 0 50%;
+	flex-grow: 1;
+}
+
+.dessertHeader{
+	background-size: cover;
+	background-position:110%;
+	padding: 30px 10% 0 50%;
+	flex-grow: 1;
+}
+
 
 .price{
 	float: right;
