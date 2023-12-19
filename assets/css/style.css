@@ -118,7 +118,7 @@ menu a:hover {
 
 
 #main-content {
-    height: 300px;
+    height: 600px;
     background-color: #eec616;
     padding-top: 5px;
     margin: auto auto;
@@ -354,4 +354,35 @@ textarea{
 
 .contactUsButton  button:hover {
   border: 2px solid red;
+}
+
+
+/* Media queries */
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {}
+
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+    #hero-text {
+        left: 0;
+    }
+
+    #menu-container{
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
+
+     #book{
+        background-position: center center;
+        background-repeat: no-repeat;
+    }
 }
