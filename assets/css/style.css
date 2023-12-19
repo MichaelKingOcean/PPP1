@@ -201,14 +201,14 @@ menu a:hover {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position:110%;
-	padding: 60px 10% 0 10%;
+	padding: 70px 10% 0 10%;
+    margin left: 0 auto;
 	flex-grow: 1;
 }
 
 
 .starterHeader {
 	background-size: cover;
-	background-position:10%;
 	padding: 30px 10% 0 50%;
 	flex-grow: 1;
 }
