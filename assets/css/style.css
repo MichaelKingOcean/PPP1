@@ -100,7 +100,7 @@ menu a:hover {
     top: 60%;
     left: 47%;
     transform: translate (-50%, -50%);
-    color: red;
+    color: #ff0000;
 }
 
 .hero-text button {
@@ -108,10 +108,73 @@ menu a:hover {
     outline: 0;
     display: inline-block;
     padding: 5px 15px;
-    color: red;
+    color: #ff0000;
     background-color: #000000;
     text-align: center;
     cursor: pointer;
+}
+
+/* Main Content */
+
+
+#main-content {
+    height: 300px;
+    background-color: #eec616;
+    padding-top: 5px;
+    margin: auto auto;
+    display: block;
+}
+
+#welcome {
+    padding: 80px 30px 0 0;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+.center-about {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 110%;
+
+}
+
+#reservation {
+    height: 300px;
+    background-color: #0066FF;
+    padding-top: 5px;
+    margin: auto auto;
+    display: block;
+}
+
+#reserve {
+    padding: 80px 30px 0 0;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+.reserve-message {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 110%;
+
+}
+
+.reserve-message button {
+    height: 50px;
+    background: black;
+    border: none;
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Oswald, sans-serif;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+.reserve-message button:hover {
+    border: 2px solid #ff0000;
 }
 
 
