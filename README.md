@@ -48,7 +48,7 @@ A Webiste that is designed from material that has been learnt from the code so f
 
 Lone Catering has three pages:
 A home page that has a hero Image and a small informatin about the site.
-![Screenshot 2023-12-20 at 17.17.35](../image/HomePage.png)
+![Screenshot 2023-12-20 at 17.17.35](assets/image/HomePage.png)
 ![Screenshot 2023-12-20 at 17.17.59](../image/homePage.png)
 
 A Menu page that has list of Food and price
