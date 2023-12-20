@@ -1,39 +1,94 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Lone Catering
+A website for Afro Fusion Food.
 
-Welcome,
+# The Purpose of this project
+This wesite is made and targeted for Families and Friend . Food is everywhere a lot of people are passion about food, Lone carting offers a solution to people looking to try authentic african cuisine.
+The site is very simple and easy to navigate, it doesn't have a lot of information but it has information on what you need to know.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+To use the site, here is the URL:
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+https://michaelkingocean.github.io/PPP1/
 
-## Codeanywhere Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+# Table of Contents
 
-`python3 -m http.server`
+User Demographic
+Requirements
+Features
+Technologies 
+Design
+Testing
+Validator Test
+Development and Deployment
+Content
+Media
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+# User Demographic
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Family and Friend looking to get Afro Fusion Food
 
-`http_server`
+Organise Party and Catering
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Cheap and affordable Food Prices
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+User Goal:
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Schedule catering for event.
 
-To log into the Heroku toolbelt CLI:
+Ensure that Food and Recipes are catered to user with allergies
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+Offer excellent catering service
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
----
+# Requirments
 
-Happy coding!
+A Webiste that is designed from material that has been learnt from the code so far and also reference to the sample Love Running Project.
+
+# Features
+
+Lone Catering has three pages:
+A home page that has a hero Image and a small informatin about the site.
+![Screenshot 2023-12-20 at 17.17.35](assets/image/HomePage.png)
+![Screenshot 2023-12-20 at 17.17.59](assets/image/homePage.png)
+
+A Menu page that has list of Food and price
+![MenuPage](assets/image/MenuPage.png)
+
+Another Page is the Book Now page this page is looking for user information who are looking to book 
+![BookNow](assets/image/bookNow.png)
+
+Last Page is the contact us page just for people to leave comment, contact us or leave feedback.
+
+![contactUs](assets/image/contactUs.png)
+
+A header with a simple logo and a navigation bar to the right 
+![header](assets/image/header.png)
+
+A footer with the links to the social media for Lone Catering.
+![footer](assets/image/footer.png)
+
+# Technologies
+
+HTML
+CSS
+GitHub
+
+# Design
+
+As this is my first project it is clear to see that some parts of the project is from what i have learnt sor far in the course,footer design, Position of div and other example are from the love running project, other ideas are from try and also using W3 school to educate my self.
+
+My goal start a website that over time and be devolpement has a personal project fior my patner business.
+
+Lone Catering is a website made of 4 pages and can be navigated from one to another.                                                                                                                                  
+# Testing
+
+Tetsed using Google Chrome. Tested different device and screen resolutions and inspeted with GOogle DevTools.
+
+Most of the problem faced come when its time to ajust the section and also the Menu and BookNow links on the Hero Image. Also when using the small screen size the hero image content goes out of frame.
+
+# Validator Testing 
+
+Html: No erros were returned when passing the offical W3C validator.
+
+![HTML Validaor](assets/image/HTMLValidation.png)
+
