@@ -98,4 +98,24 @@ CSS: No error found in the official CSS validator
 Lighthouse testing:
 ![Light House report](assets/image/LightHouse.png)
 
+#Development and Deployment
+
+This project was developed using Notpad ++ the transffered to codeanywhere. Used Github commints and push to handle different stages and version of the project.
+
+The Live version was deployed using Github Pages has demonstrated in the Love Running project
+
+Followed the step to create the site
+
+Logged into GitHub.
+Access my GitHub Reposistory for this project.
+Clicked on the setting option 
+On the Left side on the page, selected the GitHub Pages
+In the Pages section under Build and Deployment, changed the Branch from None to Main.
+Click save and a project link was generated.
+
+Link to live page below:
+
+https://michaelkingocean.github.io/PPP1/
+
+
 
