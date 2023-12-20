@@ -96,5 +96,6 @@ CSS: No error found in the official CSS validator
 ![CSS Validator](assets/image/CSSValidator.png)
 
 Lighthouse testing:
+![Light House report](assets/image/LightHouse.png)
 
 
