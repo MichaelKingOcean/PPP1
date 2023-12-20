@@ -64,6 +64,8 @@ Last Page is the contact us page just for people to leave comment, contact us or
 A header with a simple logo and a navigation bar to the right 
 ![header](assets/image/header.png)
 
+A footer with the links to the social media for Lone Catering.
+![footer](assets/image/footer.png)
 
 # Technologies
 
@@ -75,4 +77,18 @@ GitHub
 
 As this is my first project it is clear to see that some parts of the project is from what i have learnt sor far in the course,footer design, Position of div and other example are from the love running project, other ideas are from try and also using W3 school to educate my self.
 
+My goal start a website that over time and be devolpement has a personal project fior my patner business.
+
+Lone Catering is a website made of 4 pages and can be navigated from one to another.                                                                                                                                  
+# Testing
+
+Tetsed using Google Chrome. Tested different device and screen resolutions and inspeted with GOogle DevTools.
+
+Most of the problem faced come when its time to ajust the section and also the Menu and BookNow links on the Hero Image. Also when using the small screen size the hero image content goes out of frame.
+
+# Validator Testing 
+
+Html: No erros were returned when passing the offical W3C validator.
+
+![HTML Validaor](assets/image/HTMLValidation.png)
 
