@@ -118,4 +118,12 @@ Link to live page below:
 https://michaelkingocean.github.io/PPP1/
 
 
+# Content
+
+This project design was based on the course provide by Code Institutes 'Love Running' Project. Code was taken from that project has well has the W3School website, the Footer and basic layout.
+
+The Icons in the project was generated using Font Awesome
+
+The background images was taken from my partner attempt to create a business  
+
 
