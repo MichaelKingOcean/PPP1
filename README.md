@@ -92,3 +92,9 @@ Html: No erros were returned when passing the offical W3C validator.
 
 ![HTML Validaor](assets/image/HTMLValidation.png)
 
+CSS: No error found in the official CSS validator
+![CSS Validator](assets/image/CSSValidator.png)
+
+Lighthouse testing:
+
+
