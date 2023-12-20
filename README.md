@@ -49,20 +49,20 @@ A Webiste that is designed from material that has been learnt from the code so f
 Lone Catering has three pages:
 A home page that has a hero Image and a small informatin about the site.
 ![Screenshot 2023-12-20 at 17.17.35](assets/image/HomePage.png)
-![Screenshot 2023-12-20 at 17.17.59](../image/homePage.png)
+![Screenshot 2023-12-20 at 17.17.59](assets/image/homePage.png)
 
 A Menu page that has list of Food and price
-![MenuPage](../image/MenuPage.png)
+![MenuPage](assets/image/MenuPage.png)
 
 Another Page is the Book Now page this page is looking for user information who are looking to book 
-![BookNow](../image/bookNow.png)
+![BookNow](assets/image/bookNow.png)
 
 Last Page is the contact us page just for people to leave comment, contact us or leave feedback.
 
-![contactUs](../image/contactUs.png)
+![contactUs](assets/image/contactUs.png)
 
 A header with a simple logo and a navigation bar to the right 
-![header](../image/header.png)
+![header](assets/image/header.png)
 
 
 # Technologies
